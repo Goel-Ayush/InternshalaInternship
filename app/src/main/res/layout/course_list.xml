@@ -1,0 +1,39 @@
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+   >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textSize="15sp"
+        android:id="@+id/courseName"
+        android:layout_alignParentLeft="true"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:id="@+id/aboutCourse"
+        android:textSize="10sp"
+        android:layout_toEndOf="@id/courseName"/>
+
+    <TextView
+        android:id="@+id/apply"
+        android:layout_width="158dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginLeft="191dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@id/courseName"
+        android:background="#048"
+        android:padding="10dp"
+        android:text="Apply"
+        android:textColor="#ccc"
+        android:textSize="13sp" />
+</RelativeLayout>

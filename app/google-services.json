@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "770979861078",
+    "firebase_url": "https://internshalaintern-bf1be.firebaseio.com",
+    "project_id": "internshalaintern-bf1be",
+    "storage_bucket": "internshalaintern-bf1be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770979861078:android:2ecba128236b2956",
+        "android_client_info": {
+          "package_name": "com.example.android.internshalaintern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770979861078-8nufdftulc6ac9rmni13k5j4ekk7670e.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "770979861078-8nufdftulc6ac9rmni13k5j4ekk7670e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP60RRkRgOH1WcET3yahWkmR2beD3qu-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
